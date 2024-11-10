@@ -1,2 +1,2 @@
 # learning_git
-just practice
+Just learning git and github for version control and collaboration.
